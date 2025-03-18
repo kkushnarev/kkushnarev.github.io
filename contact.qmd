@@ -6,19 +6,13 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Kirill Kushnarev**
 
-School
+Trinity College Dublin
+College Green, Dublin 2,
+D02 PN40
 
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: kushnark@tcd.ie
 
 
 </center>
