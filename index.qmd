@@ -13,11 +13,11 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Git
+      text: GitHub
       href: https://github.com/kkushnarev
       target: _blank
     - icon: globe
-      text: Uprofile
+      text: Profile
       href: https://ceph.ie/people-re/kirill-kushnarev/
       target: _blank
     - icon: envelope
@@ -27,24 +27,11 @@ about:
       text: LinkedIn
       href: https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/0000-0002-5939-3879
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai RePec >}} RePec"
-      href: https://ideas.repec.org/f/pku681.html
-      target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net/profile/Kirill-Kushnarev
+#    - text: "{{< ai RePec >}} RePec"
+#      href: https://ideas.repec.org/f/pku681.html
 #      target: _blank
 
 listing:
@@ -71,15 +58,15 @@ I'm a pre-doc [at the Centre for Economics, Policy and History](https://ceph.ie/
 
 My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution.
 
-I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize for best graduate (Plekhanov Award). I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England dissertation program. 
+I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize for best graduate [(Plekhanov Pride)](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England [dissertation program](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/). 
 
-I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, here. Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found here, with the next enrollment in Fall 2025.
+I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, [here](https://kkushnarev.github.io/posts.html#category=presentation). Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found [here](https://kkushnarev.github.io/teaching.html), with the next enrollment in Fall 2025.
 
 You can find my CV [here](https://kkushnarev.github.io/files/kakush_cv-4.pdf). My email is [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
 
 :::
 
-## Recent Posts
+## News
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
 :::{#recent-posts}
