@@ -15,14 +15,7 @@ about:
     - icon: sun
       text: GitHub
       href: https://github.com/kkushnarev
-      target: _blank
-    - icon: globe
-      text: Profile
-      href: https://ceph.ie/people-re/kirill-kushnarev/
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:kushnark@tcd.ie    
+      target: _blank 
     - icon: linkedin
       text: LinkedIn
       href: https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b
