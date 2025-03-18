@@ -51,7 +51,7 @@ I'm a pre-doc [at the Centre for Economics, Policy and History](https://ceph.ie/
 
 My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution.
 
-I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize for best graduate [(Plekhanov Pride)](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England [program](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/). 
+I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, [Plekhanov Pride](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp), for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England [program](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/). 
 
 I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, [here](https://kkushnarev.github.io/posts.html#category=presentation). Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found [here](https://kkushnarev.github.io/teaching.html), with the next enrollment in Fall 2025.
 
@@ -65,4 +65,4 @@ Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="right">[All News »](/posts.qmd)</p>
