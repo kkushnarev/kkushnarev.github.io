@@ -60,7 +60,7 @@ You can find my CV [here](https://kkushnarev.github.io/files/kakush_cv-4.pdf). M
 :::
 
 ## News
-Check out the latest &nbsp;[Research](posts.qmd#category=paper)&nbsp;, &nbsp;[Code](posts.qmd#category=news)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)&nbsp
+Latest &nbsp;[Research](posts.qmd#category=paper)&nbsp;, &nbsp;[Code](posts.qmd#category=news)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)
 
 :::{#recent-posts}
 :::
