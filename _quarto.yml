@@ -8,7 +8,7 @@ author-meta: "Kirill Kushnarev"
 
 website:
   title: "Kirill Kushnarev"
-  image: "/files/kirill's.JPG"
+  image: "/files/images/kirill's.JPG"
   description: "Kirill Kushnarev"
  
   navbar:
@@ -19,36 +19,36 @@ website:
 #        href: index.qmd
       - text: About
         menu:
-          - text: News
+          - text: CV
             href: posts.qmd#category=news
-          - text: Events
+          - text: Research Statement
             href: posts.qmd#category=event      
           - text: Contact
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publication
+          - text: Publications
             href: publications.qmd
-          - text: Selected Papers
+          - text: Working Papers
             href: posts.qmd#category=paper
-          - text: Grants
+          - text: Work-in-Progress
             href: projects.qmd                                
       - text: Teaching
         href: teaching.qmd
-      - text: Outreach
+      - text: Coding and Packages
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
       - text: Group
         href: people.qmd
-      - text: Russian
+      - text: in Russian
         href: people.qmd
 
     right: 
-      - text: CV
+      - text: CV (.pdf)
         href: files/kakush_cv-4.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/kkushnarev
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
@@ -63,7 +63,7 @@ website:
     left: "[Kirill Kushnarev](http://kkushnarev.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/kkushnarev
         target: _blank
       - text: "{{< fa brands bluesky >}}" 
         href: https://bsky.app
@@ -111,4 +111,5 @@ format:
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
+
 
