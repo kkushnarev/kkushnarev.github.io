@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: "Kirill Kushnarev"
+description-meta: "Kirill's Kushnarev Website"
+image: "files/profiles/kirill's.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,38 +13,38 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
+      text: Git
+      href: https://github.com/kkushnarev
       target: _blank
     - icon: globe
       text: Uprofile
-      href: https://baruch.cuny.edu
+      href: https://ceph.ie/people-re/kirill-kushnarev/
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:kushnark@tcd.ie    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b
       target: _blank
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com     
       target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/0000-0002-5939-3879
       target: _blank
     - text: "{{< ai clarivate >}} Web of Science"
       href: https://www.webofscience.com  
       target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+    - text: "{{< ai RePec >}} RePec"
+      href: https://ideas.repec.org/f/pku681.html
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=en
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
+#      href: https://www.researchgate.net/profile/Kirill-Kushnarev
 #      target: _blank
 
 listing:
@@ -67,17 +67,14 @@ listing:
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I'm a [Pre-Doc at Trinity College Dublin](https://ceph.ie/people-re/kirill-kushnarev/), working with [Dr. Marvin Suesse](https://marvinsuesse.com).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+My research interests lie in macroeconomics and economic history across a broad range of topics.
 
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to `yourgithubusername.github.io`  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed.
-1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
+I received my undergraduate degree from Plekhanov Russian University of Economics
+
+You can find my CV [here](https://kkushnarev.github.io/files/kakush_cv-4.pdf). My email is kushnark [at] tcd [dot] ie. 
+
 
 ## Experience
 
