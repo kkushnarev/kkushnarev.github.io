@@ -1,7 +1,7 @@
 ---
 title: "Kirill Kushnarev"
 description-meta: "Kirill's Kushnarev Website"
-image: "files/profiles/kirill's.JPG"
+image: "files/profiles/kirill2.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
