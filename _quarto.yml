@@ -20,7 +20,7 @@ website:
       - text: About
         menu:
           - text: CV
-            href: posts.qmd#category=news
+            href: posts.qmd#category=paper
           - text: Research Statement
             href: posts.qmd#category=event      
           - text: Contact
