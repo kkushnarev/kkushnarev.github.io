@@ -1,12 +1,11 @@
 ---
 title: "CV"
-subtitle: ""
-description-meta: "CV"
+format: html
+editor: visual
+---
 
 ## 📄 View Online
 <embed src="/files/kakush_cv-4.pdf" type="application/pdf" width="100%" height="600px" />
 
 ## ⬇️ Download
-[Download CV (PDF)](files/kakush_cv-4.pdf)
----
-
+[Download CV (PDF)](/files/kakush_cv-4.pdf)
