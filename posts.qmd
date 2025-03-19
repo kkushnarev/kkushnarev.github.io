@@ -1,23 +1,12 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
-listing: 
-  sort: "date desc"
-  type: default
-  page-size: 100
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  feed: true
-  contents: 
-      - posts
-      - posts/post-links.yml
-#      categories: [] 
+title: "CV"
+subtitle: ""
+description-meta: "CV"
 
-#page-layout: full
-draft-mode: unlinked
-page-navigation: false
-title-block-banner: false
+## 📄 View Online
+<embed src="/files/kakush_cv-4.pdf" type="application/pdf" width="100%" height="600px" />
+
+## ⬇️ Download
+[Download CV (PDF)](files/kakush_cv-4.pdf)
 ---
 
