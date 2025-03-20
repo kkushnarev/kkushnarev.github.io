@@ -22,7 +22,7 @@ website:
           - text: CV
             href: posts.qmd#category=paper
           - text: Research Statement
-            href: posts.qmd#category=event      
+            href: projects.qmd 
           - text: Contact
             href: contact.qmd             
       - text: Research
