@@ -10,7 +10,7 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/chess.jpg)
+![](files/images/vvvv708_130723-084414.jpg)
 
 :::
 
