@@ -30,7 +30,7 @@ website:
           - text: Publications
             href: publications.qmd
           - text: Working Papers
-            href: publications.qmd
+            href: workingpapers.qmd
           - text: Work-in-Progress
             href: publications.qmd                             
       - text: Teaching
