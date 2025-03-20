@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Research Statement"
 format: html
 editor: visual
 ---
@@ -9,7 +9,3 @@ editor: visual
 
 ## ⬇️ Download
 <a href="/files/Research_statement_.pdf" download>Download Research Statement (PDF)</a>
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
