@@ -1,8 +1,8 @@
 ---
-title: "News item"
-description: "About new item"
+title: "To be updated..."
+description: "To be updated..."
 author: "News"
-date: "2024-06-24"
+date: "2025-03-21"
 categories: [news]
 image: "/files/images/placeholder1.jpg"
 #css: /custom.css
@@ -12,7 +12,7 @@ image: "/files/images/placeholder1.jpg"
 
 ## Summary
 
-About the news
+To be updated...
 
 <!--Include social share buttons-->
 
