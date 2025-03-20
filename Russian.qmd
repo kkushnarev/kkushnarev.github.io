@@ -16,9 +16,9 @@ about:
       text: GitHub
       href: https://github.com/kkushnarev
       target: _blank 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b
+    - icon: paper
+      text: РИНЦ
+      href: https://www.elibrary.ru/author_items.asp?authorid=1063763
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=en
