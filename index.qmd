@@ -53,7 +53,7 @@ My research interests lie in macroeconomics and economic history across various 
 
 I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, [Plekhanov Pride](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp), for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England [program](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/). 
 
-I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, [here](posts.qmd#category=presentation). Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found [here](teaching.qmd), with the next enrollment in Fall 2025.
+I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, [here](people.qmd). Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found [here](teaching.qmd), with the next enrollment in Fall 2025.
 
 You can find my CV [here](posts.qmd#category=paper). My email is [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
 
