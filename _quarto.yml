@@ -30,9 +30,9 @@ website:
           - text: Publications
             href: publications.qmd
           - text: Working Papers
-            href: posts.qmd#category=paper
+            href: publications.qmd
           - text: Work-in-Progress
-            href: projects.qmd                                
+            href: publications.qmd                             
       - text: Teaching
         href: teaching.qmd
       - text: Coding and Packages       
