@@ -55,7 +55,7 @@ I received my undergraduate degree in Economics from Plekhanov Russian Universit
 
 I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, [here](https://kkushnarev.github.io/posts.html#category=presentation). Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found [here](https://kkushnarev.github.io/teaching.html), with the next enrollment in Fall 2025.
 
-You can find my CV [here](https://kkushnarev.github.io/files/kakush_cv-4.pdf). My email is [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
+You can find my CV [here](https://kkushnarev.github.io/posts.html#category=paper). My email is [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
 
 :::
 
