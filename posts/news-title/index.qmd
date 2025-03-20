@@ -4,7 +4,7 @@ description: "To be updated..."
 author: "News"
 date: "2025-03-21"
 categories: [news]
-image: "/files/images/placeholder1.jpg"
+image: "/files/images/KellsFol034rXRhoDet3.jpeg"
 #css: /custom.css
 #draft: true
 ---
