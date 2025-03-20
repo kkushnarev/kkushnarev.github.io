@@ -1,94 +1,17 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "workingpapers.html",
+    "href": "workingpapers.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Einstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "workingpapers.html#selected-work",
+    "href": "workingpapers.html#selected-work",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Research Statement",
     "section": "",
-    "text": "Download Research Statement (PDF)"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2025\nTopics in Russian Economic History.\nOutline 2025   Outline 2025 (In Rus)"
-  },
-  {
-    "objectID": "teaching.html#topics-in-russian-economic-history",
-    "href": "teaching.html#topics-in-russian-economic-history",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2025\nTopics in Russian Economic History.\nOutline 2025   Outline 2025 (In Rus)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Kirill Kushnarev\nTrinity College Dublin College Green, Dublin 2, D02 PN40\nE-mail: kushnark@tcd.ie"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kirill Kushnarev",
-    "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a pre-doc at the Centre for Economics, Policy and History at Trinity College Dublin, working with Dr. Marvin Suesse.\nMy research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is here.\nI received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, Plekhanov Pride, for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England program.\nI publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, here. Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found here, with the next enrollment in Fall 2025.\nYou can find my CV here. My email is kushnark at tcd dot ie."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Kirill Kushnarev",
-    "section": "News",
-    "text": "News\nLatest  Research ,  Code , and  Presentations\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll News »"
+    "text": "Einstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
     "objectID": "people.html",
@@ -110,5 +33,96 @@
     "title": "Coding and Packages",
     "section": "Packages in STATA",
     "text": "Packages in STATA\nTo be updated …"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kirill Kushnarev",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a pre-doc at the Centre for Economics, Policy and History at Trinity College Dublin, working with Dr. Marvin Suesse.\nMy research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is here.\nI received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, Plekhanov Pride, for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England program.\nI publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, here. Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found here, with the next enrollment in Fall 2025.\nYou can find my CV here. My email is kushnark at tcd dot ie."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Kirill Kushnarev",
+    "section": "News",
+    "text": "News\nLatest  Research ,  Code , and  Presentations\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll News »"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Kirill Kushnarev\nTrinity College Dublin College Green, Dublin 2, D02 PN40\nE-mail: kushnark@tcd.ie"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2025\nTopics in Russian Economic History.\nOutline 2025   Outline 2025 (In Rus)"
+  },
+  {
+    "objectID": "teaching.html#topics-in-russian-economic-history",
+    "href": "teaching.html#topics-in-russian-economic-history",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2025\nTopics in Russian Economic History.\nOutline 2025   Outline 2025 (In Rus)"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Statement",
+    "section": "",
+    "text": "Download Research Statement (PDF)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
   }
 ]
