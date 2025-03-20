@@ -4,7 +4,7 @@ description: "I will be presenting my paper on labour market concentration at LS
 author: "Kirill Kushnarev"
 date: "2025-03-27"
 categories: [event, presentation]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/1328-LSE-Library-04.jpg"
 #css: /custom.css
 #draft: true
 ---
