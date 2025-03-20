@@ -1,34 +1,14 @@
 ---
-title: "Projects"
-subtitle: "Funded projects"
-page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
+title: "CV"
+format: html
+editor: visual
 ---
 
+## 📄 View
+<embed src="/files/Research_statement_.pdf" type="application/pdf" width="100%" height="600px" />
 
-:::{#projects}
-:::
-
+## ⬇️ Download
+<a href="/files/Research_statement_.pdf" download>Download Research Statement (PDF)</a>
 
 <!--Include social share buttons-->
 
