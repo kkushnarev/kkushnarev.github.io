@@ -1,0 +1,68 @@
+---
+title: "Кирилл Кушнарев"
+description-meta: "Веб-сайт Кирилла Кушнарева"
+image: "files/profiles/kirill2.png"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: sun
+      text: GitHub
+      href: https://github.com/kkushnarev
+      target: _blank 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=en
+      target: _blank
+#    - text: "{{< ai RePec >}} RePec"
+#      href: https://ideas.repec.org/f/pku681.html
+#      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+Я являюсь преддокторантом в [Центре экономики, политики и истории](https://ceph.ie/people-re/kirill-kushnarev/) Тринити-колледжа в Дублине, где работаю с [доктором Марвином Сюссе](https://marvinsuesse.com).
+
+Мои исследовательские интересы сосредоточены на макроэкономике и экономической истории. В настоящее время я работаю над проектом, который связывает микро-данные о бизнесе и промышленности 18-го и 19-го веков для нескольких стран, чтобы изучить вопросы в сравнительной перспективе Британской промышленной революции. Краткое описание моего исследования можно найти [здесь](projects.qmd).
+
+Я получил степень бакалавра экономики в Российском экономическом университете имени Плеханова, где был удостоен университетской награды [«Гордость Плеханова»](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp) как лучший выпускник. Затем я получил степень магистра (MSc) с отличием по экономической истории (исследовательский трек) в Лондонской школе экономики. Моя магистерская диссертация заняла первое место в программе [Экономического статистического центра передового опыта (ESCoE) и Банка Англии](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/).
+
+Я публикую данные, код и прикладные эконометрические исследования, включая новые пакеты Stata и алгоритмы связывания данных, [здесь](people.qmd). Также я провожу бесплатный курс по экономической истории России для аспирантов и всех желающих. Программа и лекции доступны [здесь](teaching.qmd), следующая запись – осенью 2025 года.
+
+Мое резюме можно найти [здесь](posts.qmd#category=paper). Моя электронная почта: [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
+
+:::
+
+## Новости
+Последние &nbsp;[исследования](posts.qmd#category=paper)&nbsp;, &nbsp;[код](posts.qmd#category=news)&nbsp; и &nbsp;[презентации](posts.qmd#category=event)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[Все новости »](/posts.qmd)</p>
