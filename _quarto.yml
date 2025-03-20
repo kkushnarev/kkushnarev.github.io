@@ -42,7 +42,7 @@ website:
 
     right:
       - text: in Russian
-        href: people.qmd
+        href: Russian.qmd
       - text: CV (.pdf)
         href: files/kakush_cv-4.pdf
        
