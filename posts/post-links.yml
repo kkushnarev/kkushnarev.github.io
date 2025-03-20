@@ -1,9 +1,9 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
+    - path: https://www.escoe.ac.uk/labour-market-concentration-since-the-british-industrial-revolution/
       image: "/files/images/placeholder4.JPG"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
+      title: "Local Labour Market Concentration - blog"
+      author: "Kirill Kushnarev"
+      description: "My blog on estimating market concentration since the British Industrial Revolution and its relationship with labour share."
+      date: "2025-03-21"
       categories: [news] 
 
