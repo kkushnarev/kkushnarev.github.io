@@ -36,7 +36,7 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: Coding and Packages       
-        href: posts.qmd#category=presentation                   
+        href: people.qmd                 
 
 
 
