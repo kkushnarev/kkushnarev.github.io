@@ -60,7 +60,7 @@ You can find my CV [here](posts.qmd#category=paper). My email is [kushnark@tcd.i
 :::
 
 ## News
-Latest &nbsp;[Research](posts.qmd#category=paper)&nbsp;, &nbsp;[Code](posts.qmd#category=news)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)
+Latest &nbsp;[Research](workingpapers.qmd)&nbsp;, &nbsp;[Code](people.qmd)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)
 
 :::{#recent-posts}
 :::
