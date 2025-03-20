@@ -4,8 +4,8 @@ format: html
 editor: visual
 ---
 
-## View
+##
 <embed src="/files/kakush_cv-4.pdf" type="application/pdf" width="100%" height="600px" />
 
-## Download
+##
 <a href="/files/kakush_cv-4.pdf" download>Download CV (PDF)</a>
