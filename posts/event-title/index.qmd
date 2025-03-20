@@ -1,7 +1,7 @@
 ---
-title: "Event item"
-description: "About Event item."
-author: "Event"
+title: "Upcoming Seminar"
+description: "I will be presenting my paper on labour market concentration at LSE on March 27th"
+author: "Kirill Kushnarev"
 date: "2024-09-03"
 categories: [event, presentation]
 image: "/files/images/placeholder2.JPG"
