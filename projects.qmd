@@ -4,8 +4,8 @@ format: html
 editor: visual
 ---
 
-## 📄 View
+## View
 <embed src="/files/Research_statement_.pdf" type="application/pdf" width="100%" height="600px" />
 
-## ⬇️ Download
+## Download
 <a href="/files/Research_statement_.pdf" download>Download Research Statement (PDF)</a>
