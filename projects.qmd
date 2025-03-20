@@ -6,6 +6,7 @@ editor: visual
 
 <embed src="/files/Research_statement_.pdf" type="application/pdf" width="100%" height="600px" />
 
+<br><br><br> 
 
 <a href="/files/Research_statement_.pdf" download>Download Research Statement (PDF)</a>
 
