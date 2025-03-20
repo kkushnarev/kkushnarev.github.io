@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kirill Kushnarev">
-<meta name="description" content="Kirill’s Kushnarev Website">
+<meta name="description" content="Information, pdfs, and social metrics of papers">
 
-<title>Kirill Kushnarev</title>
+<title>Publications – Kirill Kushnarev</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,11 +32,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -44,8 +43,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,36 +69,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HG16GK3RFT"></script>
 
 <script type="text/javascript">
@@ -132,48 +99,14 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Kirill Kushnarev">
-<meta property="og:description" content="Kirill Kushnarev">
-<meta property="og:image" content="https://kkushnarev.github.io/files/profiles/kirill2.png">
+<link rel="stylesheet" href="custom.css">
+<meta property="og:title" content="Publications – Kirill Kushnarev">
+<meta property="og:image" content="https://kkushnarev.github.io/files/images/kirill's.JPG">
 <meta property="og:site_name" content="Kirill Kushnarev">
-<meta property="og:image:height" content="3301">
-<meta property="og:image:width" content="2059">
-<meta name="twitter:title" content="Kirill Kushnarev">
-<meta name="twitter:description" content="Kirill Kushnarev">
-<meta name="twitter:image" content="https://kkushnarev.github.io/files/profiles/kirill2.png">
-<meta name="twitter:image-height" content="3301">
-<meta name="twitter:image-width" content="2059">
+<meta name="twitter:title" content="Publications – Kirill Kushnarev">
+<meta name="twitter:image" content="https://kkushnarev.github.io/files/images/kirill's.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -263,127 +196,63 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#selected-work" id="toc-selected-work" class="nav-link active" data-scroll-target="#selected-work">Selected Work</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profiles/kirill2.png" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Kirill Kushnarev</h1>
+<h1 class="title">Publications</h1>
 </div>
-<div class="quarto-title-meta column-page">
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/kkushnarev" class="about-link" rel="" target="_blank">
-    <i class="bi bi-sun"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://tr.linkedin.com/in/kirill-kushnarev-aa532a23b" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=hNCef-4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>I’m a pre-doc <a href="https://ceph.ie/people-re/kirill-kushnarev/">at the Centre for Economics, Policy and History</a> at Trinity College Dublin, working with <a href="https://marvinsuesse.com">Dr.&nbsp;Marvin Suesse</a>.</p>
-<p>My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is <a href="./projects.html">here</a>.</p>
-<p>I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, <a href="https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=ru&amp;_x_tr_pto=wapp">Plekhanov Pride</a>, for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England <a href="https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/">program</a>.</p>
-<p>I publish data, coding, and applied econometrics, including new Stata packages and linkage algorithms, <a href="./people.html">here</a>. Also, I run a pro-bono course on Russian Economic History for graduate students and anyone interested. The syllabus and lectures can be found <a href="./teaching.html">here</a>, with the next enrollment in Fall 2025.</p>
-<p>You can find my CV <a href="./posts.html#category=paper">here</a>. My email is <script type="text/javascript">
-<!--
-h='&#116;&#x63;&#100;&#46;&#x69;&#x65;';a='&#64;';n='&#x6b;&#x75;&#x73;&#104;&#110;&#x61;&#114;&#x6b;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>kushnark at tcd dot ie</noscript>.</p>
-</div></div>
-</div>
-
-<section id="news" class="level2">
-<h2 data-anchor-id="news">News</h2>
-<p>Latest &nbsp;<a href="./posts.html#category=paper">Research</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">Code</a>&nbsp;, and &nbsp;<a href="./posts.html#category=event">Presentations</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728939600000">
-<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder4.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Quarto Academic Website Examples and Tips
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Oct 15, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725310800000" data-listing-file-modified-sort="1742251821939" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<a href="./posts/event-title/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder2.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Event item
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Sep 3, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719176400000" data-listing-file-modified-sort="1742251821939" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./posts/news-title/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-News item
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jun 24, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p align="right">
-<a href="./posts.html">All News »</a>
-</p>
 
 
+<section id="selected-work" class="level2">
+<h2 class="anchored" data-anchor-id="selected-work">Selected Work</h2>
+Einstein, A., Podolsky, B., &amp; Rosen, N. (1935). <a href="./posts/paper-title/index.html">Can quantum-mechanical description of physical reality be considered complete?</a>. <em>Physical review</em>, 47(10), 777. [<a href="https://scholar.google.com/">pdf</a>] [<a href="https://doi.org">code and data</a>] <img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"> <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true">
+
+</div>
+<center>
+<hr style="width:50%">
+</center>
+Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. <em>American Journal of Physics</em>, 33(5), 367. [<a href="https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf">pdf</a>] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true">
+
+</div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
@@ -409,6 +278,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
