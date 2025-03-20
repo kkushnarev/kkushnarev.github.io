@@ -49,7 +49,7 @@ listing:
 
 I'm a pre-doc [at the Centre for Economics, Policy and History](https://ceph.ie/people-re/kirill-kushnarev/) at Trinity College Dublin, working with [Dr. Marvin Suesse](https://marvinsuesse.com).
 
-My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is [here]{https://kkushnarev.github.io/projects.html}.
+My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is [here](https://kkushnarev.github.io/projects.html).
 
 I received my undergraduate degree in Economics from Plekhanov Russian University of Economics, where I was awarded the university-wide prize, [Plekhanov Pride](https://www-rea-ru.translate.goog/news/3303-vashi-kryilya--nasha-gordost-nazvanyi-luchshie-vyipuskniki-plehanovki-2022-goda?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp), for best graduate. I received an MSc with Distinction in Economic History (Research) from the London School of Economics, where my master’s dissertation was awarded first prize in the Economic Statistics Centre of Excellence and the Bank of England [program](https://www.escoe.ac.uk/opportunities/escoe-masters-dissertation-programme/). 
 
