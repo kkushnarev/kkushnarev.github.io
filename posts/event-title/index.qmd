@@ -2,7 +2,7 @@
 title: "Upcoming Seminar"
 description: "I will be presenting my paper on labour market concentration at LSE on March 27th"
 author: "Kirill Kushnarev"
-date: "2024-09-03"
+date: "2025-03-27"
 categories: [event, presentation]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
