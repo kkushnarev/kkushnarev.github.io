@@ -9,7 +9,7 @@ image: "/files/images/1328-LSE-Library-04.jpg"
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+[![](/files/images/1328-LSE-Library-04.jpg"){width="90%"}](https://kkushnarev.github.io)
 
 
 <!--Include social share buttons-->
