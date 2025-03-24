@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/Russian.html",
     "items": [
       "/posts/event-title/index.html",
       "/posts/news-title/index.html",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "listing": "/Russian.html",
+    "listing": "/index.html",
     "items": [
       "/posts/event-title/index.html",
       "/posts/news-title/index.html",

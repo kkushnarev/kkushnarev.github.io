@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kkushnarev.github.io/workingpapers.html</loc>
-    <lastmod>2025-03-20T22:28:49.823Z</lastmod>
+    <lastmod>2025-03-24T18:30:43.042Z</lastmod>
   </url>
   <url>
-    <loc>https://kkushnarev.github.io/people.html</loc>
-    <lastmod>2025-03-20T22:16:14.154Z</lastmod>
+    <loc>https://kkushnarev.github.io/posts.html</loc>
+    <lastmod>2025-03-24T18:30:43.041Z</lastmod>
   </url>
   <url>
-    <loc>https://kkushnarev.github.io/index.html</loc>
-    <lastmod>2025-03-20T23:30:14.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/projects.html</loc>
-    <lastmod>2025-03-21T20:52:16.760Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/posts/news-title/index.html</loc>
-    <lastmod>2025-03-20T23:23:16.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/posts/paper-title/index.html</loc>
-    <lastmod>2025-03-17T22:50:21.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/teaching.html</loc>
-    <lastmod>2025-03-20T22:35:54.496Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/contact.html</loc>
-    <lastmod>2025-03-18T23:20:31.798Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkushnarev.github.io/posts/event-title/index.html</loc>
-    <lastmod>2025-03-20T23:30:14.632Z</lastmod>
+    <loc>https://kkushnarev.github.io/publications.html</loc>
+    <lastmod>2025-03-24T18:30:43.041Z</lastmod>
   </url>
   <url>
     <loc>https://kkushnarev.github.io/Russian.html</loc>
     <lastmod>2025-03-20T22:59:39.886Z</lastmod>
   </url>
   <url>
-    <loc>https://kkushnarev.github.io/publications.html</loc>
+    <loc>https://kkushnarev.github.io/posts/event-title/index.html</loc>
+    <lastmod>2025-03-20T23:30:14.632Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/contact.html</loc>
+    <lastmod>2025-03-18T23:20:31.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/teaching.html</loc>
+    <lastmod>2025-03-20T22:35:54.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/posts/paper-title/index.html</loc>
     <lastmod>2025-03-17T22:50:21.942Z</lastmod>
   </url>
   <url>
-    <loc>https://kkushnarev.github.io/posts.html</loc>
-    <lastmod>2025-03-20T21:53:28.546Z</lastmod>
+    <loc>https://kkushnarev.github.io/posts/news-title/index.html</loc>
+    <lastmod>2025-03-20T23:23:16.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/projects.html</loc>
+    <lastmod>2025-03-21T20:52:16.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/index.html</loc>
+    <lastmod>2025-03-20T23:30:14.632Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/people.html</loc>
+    <lastmod>2025-03-20T22:16:14.154Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkushnarev.github.io/workinprogress.html</loc>
+    <lastmod>2025-03-24T18:30:43.042Z</lastmod>
   </url>
 </urlset>
