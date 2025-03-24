@@ -11,7 +11,7 @@ css: custom.css
 
 ### Theory and applied
 
-Zip'f law for local distributions
+Local Zipf's Law: Emergence of Zipf's Law for Firms
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -20,7 +20,7 @@ The paper is
 
 <center><hr style="width:50%"></center>
 
-Selection with many missing-at-random values
+Selection With Many Missing-At-Random Values
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -29,7 +29,7 @@ The paper is
 
 <center><hr style="width:50%"></center>
 
-Post-selection conditional inference approach
+Post-Selection Inference: Conditional Approach
 
 <details>
 <summary><strong>Abstract</strong></summary>
