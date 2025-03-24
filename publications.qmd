@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
+description-meta: "Information, pdfs, and coverage of papers"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: false
@@ -8,27 +8,39 @@ css: custom.css
 ---
 
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
-
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
-
-Total citations as of January 2025:
-
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
 
 ## Selected Work
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+### Applied and theory
 
+Kushnarev, K., Sokerin, P., & Volkova, A. (2021). [Object detection in financial reporting documents for subsequent recognition](https://koreascience.kr/article/JAKO202112362357473.pdf). *International Journal of Advanced Smart Convergence*, *10*, 1–11 (in Eng.). \[[pdf](https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277)\]
 
 <center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+### Political business-cycles
 
+Kushnarev, K. (2020). [Transformation of Kuznets cycles in post-socialist countries. Relationship of the cycles with economic growth](https://cyberleninka.ru/article/n/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom). *Scientific Works of the Free Economic Society of Russia*, *224*, 541–553 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/oal5v6v8y2gga16zb11w6/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom.pdf?rlkey=njgpiddtty4wef67qngt9isgb&dl=0)\]
 
+<center><hr style="width:50%"></center>
 
-<!--Include social share buttons-->
+Kushnarev, K., & Bolvachev, A. (2020). [Economic views of S. Kuznets and the reception of the theory of medium-term cycles in the political economy narrative](https://cyberleninka.ru/article/n/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative). *University Bulletin*, *8*, 88–101 (in Rus.). \[[pdf]https://www.dropbox.com/scl/fi/rd17evhf1n0y9wks9s4ai/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative.pdf?rlkey=1z8irnz8jlwnd2nelw7o9lk8c&dl=0)\]
 
-{{< include /files/includes/_socialshare.qmd >}}
+### Art-market
+
+Kushnarev, K., et al. (2020). [The mechanism of self-regulation of the art market as a factor of counteraction to the legalization of financial flows](https://cyberleninka.ru/article/n/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov). *Financial Research*, *4*, 94–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/hqlzee77e73vztp8s0bol/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov.pdf?rlkey=bmvk26ahvkr06m7fks1koozwu&dl=0)\]
+
+<center><hr style="width:50%"></center>
+
+Kushnarev, K., & Bolvachev, A. (2020). [Mathematical and statistical model of price formation in the art market: finance and market equilibrium](https://www.finance-man.ru/index.php/journal/article/view/264). *Financial Management*, *1*, 51–63 (in Rus.). \[[pdf](https://scholar.google.com/)\]
+
+### Social Psychology
+
+Kushnarev, K., & Smirnova, Ya. (2018). [Theoretical and methodological foundations of research of interpersonal attraction](http://bppasu.ru/article/view/4231). *Bulletin of Psychology and Pedagogy of Altai State University*, *2*, 89–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rrs055tl1teg5tiwe3t6p/4231-13963-1-10-20180627.pdf?rlkey=r2dffwxsmklfhet83nqsln6xo&dl=0)\]
+
+<center><hr style="width:50%"></center>
+
+Kushnarev, K., & Smirnova, Ya. (2017). [Motivations for refusing assistance in adolescents in the context of the phenomenon of interpersonal attraction](http://bppasu.ru/article/view/3290). *Bulletin of Psychology and Pedagogy of Altai State University*, *3*, 62–74 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/ak9dz7tf81afxfk0qy9o1/3290-10404-1-10-20170930.pdf?rlkey=io30vic0foh50dy6186wtravg&dl=0)\]
+
+<center><hr style="width:50%"></center>
+
+Full list of published papers and conference proceedings \[here](https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=ru&oi=ao)
