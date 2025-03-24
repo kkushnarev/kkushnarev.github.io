@@ -32,7 +32,7 @@ website:
           - text: Working Papers
             href: workingpapers.qmd
           - text: Work-in-Progress
-            href: publications.qmd                             
+            href: workinprogress.qmd                             
       - text: Teaching
         href: teaching.qmd
       - text: Coding and Packages       
