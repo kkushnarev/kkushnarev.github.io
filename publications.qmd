@@ -15,8 +15,6 @@ css: custom.css
 
 Kushnarev, K., Sokerin, P., & Volkova, A. (2021). [Object detection in financial reporting documents for subsequent recognition](https://koreascience.kr/article/JAKO202112362357473.pdf). *International Journal of Advanced Smart Convergence*, *10*, 1–11 (in Eng.). \[[pdf](https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277)\]
 
-<center><hr style="width:50%"></center>
-
 ### Political business-cycles
 
 Kushnarev, K. (2020). [Transformation of Kuznets cycles in post-socialist countries. Relationship of the cycles with economic growth](https://cyberleninka.ru/article/n/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom). *Scientific Works of the Free Economic Society of Russia*, *224*, 541–553 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/oal5v6v8y2gga16zb11w6/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom.pdf?rlkey=njgpiddtty4wef67qngt9isgb&dl=0)\]
