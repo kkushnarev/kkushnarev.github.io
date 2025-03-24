@@ -1,1 +1,39 @@
+---
+title: "Work in Progress"
+description-meta: "Information, pdfs, and coverage of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+## Work in Progress
+
+### Theory and applied
+
+Zip'f law for local distributions
+
+<details>
+<summary><strong>Abstract</strong></summary>
+The paper is 
+</details>
+
+<center><hr style="width:50%"></center>
+
+Selection with many missing-at-random values
+
+<details>
+<summary><strong>Abstract</strong></summary>
+The paper is 
+</details>
+
+<center><hr style="width:50%"></center>
+
+Post-selection conditional inference approach
+
+<details>
+<summary><strong>Abstract</strong></summary>
+The paper is 
+</details>
+
 
