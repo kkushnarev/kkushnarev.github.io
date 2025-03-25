@@ -9,7 +9,7 @@ css: custom.css
 
 ## Working Papers
 
-Kushnarev, K. (2024). Labour market concentration since the British Industrial Revolution. *Working Paper*. \[[pdf](/files/WP1.pdf)\] \[[slides](https://www.dropbox.com/scl/fi/7bay01qimaelbr0nbff13/Presentation__WP-12.pdf?rlkey=9bqm8tmp7cxf1nahw9e6t3lgb&st=3pw3ldbn&dl=0)\] 
+Kushnarev, K. (2024). Labour market concentration since the British Industrial Revolution. *Working Paper*. \[[pdf](/files/WP2.pdf)\] \[[slides](https://www.dropbox.com/scl/fi/7bay01qimaelbr0nbff13/Presentation__WP-12.pdf?rlkey=9bqm8tmp7cxf1nahw9e6t3lgb&st=3pw3ldbn&dl=0)\] 
 
 **Covered by [Economic Statistics Centre of Excellence](https://www.escoe.ac.uk/labour-market-concentration-since-the-british-industrial-revolution/)**
 
