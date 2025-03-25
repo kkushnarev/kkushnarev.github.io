@@ -15,13 +15,18 @@ css: custom.css
 
 Kushnarev, K., Sokerin, P., & Volkova, A. (2021). [Object detection in financial reporting documents for subsequent recognition](https://koreascience.kr/article/JAKO202112362357473.pdf). *International Journal of Advanced Smart Convergence*, *10*, 1–11 (in Eng.). \[[pdf](https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277)\]
 
+<details>
+<summary><strong>Abstract</strong></summary>
+Document page segmentation is an important step in building a quality optical character recognition module. The study examined already existing work on the topic of page segmentation and focused on the development of a segmentation model that has greater functional significance for application in an organisation, as well as broad capabilities for managing the quality of the model. The main problems of document segmentation were highlighted, which include a complex background of intersecting objects. As classes for detection, not only classic text, tables and figures were selected, but also additional types, such as signatures, logos and tables without borders (or with partially missing borders). This made it possible to pose a non-trivial task of detecting nonstandard document elements. The authors compared existing neural network architectures for object detection based on published research data. The most suitable architecture was RetinaNet. To ensure the possibility of quality control of the model, a method based on neural network modelling using the RetinaNet architecture is proposed. During the study, several models were built, the quality of which was assessed on the test sample using the mean average precision metric. The best result among the constructed algorithms was shown by a model that includes four neural networks: the focus of the first neural network is on detecting tables and tables without borders, the second – seals and signatures, the third – pictures and logos, and the fourth – text. As a result of the analysis, it was revealed that the approach based on four neural networks showed the best results in accordance with the objectives of the study on the test sample in the context of most classes of detection. The method proposed in the article can be used to recognise other objects. A promising direction in which the analysis can be continued is the segmentation of tables; the areas of the table that differ in function will act as classes: heading, cell with a name, cell with data, and empty cell. 
+</details>
+
 ### Political business-cycles
 
 Kushnarev, K. (2020). [Transformation of Kuznets cycles in post-socialist countries. Relationship of the cycles with economic growth](https://cyberleninka.ru/article/n/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom). *Scientific Works of the Free Economic Society of Russia*, *224*, 541–553 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/oal5v6v8y2gga16zb11w6/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom.pdf?rlkey=njgpiddtty4wef67qngt9isgb&dl=0)\]
 
 <center><hr style="width:50%"></center>
 
-Kushnarev, K., & Bolvachev, A. (2020). [Economic views of S. Kuznets and the reception of the theory of medium-term cycles in the political economy narrative](https://cyberleninka.ru/article/n/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative). *University Bulletin*, *8*, 88–101 (in Rus.). \[[pdf]https://www.dropbox.com/scl/fi/rd17evhf1n0y9wks9s4ai/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative.pdf?rlkey=1z8irnz8jlwnd2nelw7o9lk8c&dl=0)\]
+Kushnarev, K., & Bolvachev, A. (2020). [Economic views of S. Kuznets and the reception of the theory of medium-term cycles in the political economy narrative](https://cyberleninka.ru/article/n/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative). *University Bulletin*, *8*, 88–101 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rd17evhf1n0y9wks9s4ai/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative.pdf?rlkey=1z8irnz8jlwnd2nelw7o9lk8c&dl=0)\]
 
 ### Art-market
 
@@ -41,4 +46,4 @@ Kushnarev, K., & Smirnova, Ya. (2017). [Motivations for refusing assistance in a
 
 <center><hr style="width:50%"></center>
 
-Full list of published papers and conference proceedings is \[here](https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=ru&oi=ao). Research statement is \[here](https://kkushnarev.github.io/projects.html).
+Full list of published papers and conference proceedings is \[[here](https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=ru&oi=ao)\]. Research statement is \[[here](https://kkushnarev.github.io/projects.html)\].
