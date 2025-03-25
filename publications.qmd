@@ -1,13 +1,11 @@
 ---
-title: "Publications"
+title: "Selected Work"
 description-meta: "Information, pdfs, and coverage of papers"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: false
 css: custom.css
 ---
-
-## Selected Work
 
 ### Applied and theory
 
@@ -83,5 +81,5 @@ The article is devoted to one of the components of prosocial motivation—namely
 </details>
 
 <center><hr style="width:50%"></center>
-
+##
 Full list of published papers and conference proceedings is [here](https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=ru&oi=ao). Research statement is [here](https://kkushnarev.github.io/projects.html).
