@@ -7,8 +7,6 @@ title-block-banner: false
 css: custom.css
 ---
 
-https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277
-
 ## Selected Work
 
 ### Applied and theory
