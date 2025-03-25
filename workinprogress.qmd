@@ -7,8 +7,6 @@ title-block-banner: false
 css: custom.css
 ---
 
-##
-
 ### Theory and applied
 
 Local Zipf's Law: Emergence of Zipf's Law for Firms
