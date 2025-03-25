@@ -7,7 +7,7 @@ title-block-banner: false
 css: custom.css
 ---
 
-## Working Papers
+## 
 
 Kushnarev, K. (2024). Labour market concentration since the British Industrial Revolution. *Working Paper*. \[[pdf](/files/WP2.pdf)\] \[[slides](https://www.dropbox.com/scl/fi/7bay01qimaelbr0nbff13/Presentation__WP-12.pdf?rlkey=9bqm8tmp7cxf1nahw9e6t3lgb&st=3pw3ldbn&dl=0)\] 
 
@@ -27,6 +27,6 @@ Kushnarev, K. (2024). Spillover effects from chess, 1891–2021. *Working Paper*
 This paper explores the formation of upper-tail human capital under socialism and its longstanding impact on economic and political participation. Based on this motivation, I have developed a model of the interplay between economic and intellectual life, where intellectual competition in chess explains the variation of economic and political participation once it becomes available. I have collected a novel dataset of \textit{2 155 chess protocols and 11 115 unique names} of chess players between 1891 and 2021 in the three levels of tournaments: local (cities and towns), republics, and international competitions held in the USSR and, after 1991, in Russia. Based on the data, I have found a variation in chess competitiveness by the level of tournaments and geographical units. It accounts for a more than 6 times decrease in the local competitiveness in the 30-s and, more importantly, in the 70-s and 80-s. Furthermore, this variation allows me to frame future opportunities to explore causal relationships between chess competitiveness and a) the probability of city participation in the cooperative movement, introduced in 1989; b) the exposure of political protest activities in 2007-2017 at the level of the city.
 </details>
 
-<center><hr style="width:50%"></center>
+## 
 
 On the future development of working papers in the [Research Statement](https://kkushnarev.github.io/projects.html).
