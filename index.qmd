@@ -47,7 +47,7 @@ listing:
 
 :::{#hero-heading}
 
-I'm a pre-doc [at the Centre for Economics, Policy and History](https://ceph.ie/people-re/kirill-kushnarev/) at Trinity College Dublin, working with [Dr. Marvin Suesse](https://marvinsuesse.com).
+I'm a pre-doc at the Department of Economics and [at the Centre for Economics, Policy and History](https://ceph.ie/people-re/kirill-kushnarev/) at Trinity College Dublin, working with [Dr. Marvin Suesse](https://marvinsuesse.com).
 
 My research interests lie in macroeconomics and economic history across various topics. I am currently working on a project that links 18th- and 19th-century business and manufacturing micro-data for multiply countries to explore questions from a comparative perspective on the British Industrial Revolution. A summary of my research is [here](projects.qmd).
 
