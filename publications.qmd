@@ -7,13 +7,13 @@ title-block-banner: false
 css: custom.css
 ---
 
-
+https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277
 
 ## Selected Work
 
 ### Applied and theory
 
-Kushnarev, K., Sokerin, P., & Volkova, A. (2021). [Object detection in financial reporting documents for subsequent recognition](https://koreascience.kr/article/JAKO202112362357473.pdf). *International Journal of Advanced Smart Convergence*, *10*, 1–11 (in Eng.). \[[pdf](https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277)\]
+Kushnarev, K., Sokerin, P., & Volkova, A. (2021). [Object detection in financial reporting documents for subsequent recognition](https://www.semanticscholar.org/paper/Object-detection-in-financial-reporting-documents-Sokerin-Volkova/dbd88e498eb5b81f466e86f0bc46ad8554a0a277). *International Journal of Advanced Smart Convergence*, *10*, 1–11 (in Eng.). \[[pdf](https://koreascience.kr/article/JAKO202112362357473.pdf)\]
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -22,7 +22,7 @@ Document page segmentation is an important step in building a quality optical ch
 
 ### Political business-cycles
 
-Kushnarev, K. (2020). [Transformation of Kuznets cycles in post-socialist countries. Relationship of the cycles with economic growth](https://cyberleninka.ru/article/n/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom). *Scientific Works of the Free Economic Society of Russia*, *224*, 541–553 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/oal5v6v8y2gga16zb11w6/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom.pdf?rlkey=njgpiddtty4wef67qngt9isgb&dl=0)\]
+Kushnarev, K. (2020). [Transformation of Kuznets cycles in post-socialist countries. Relationship of the cycles with economic growth](https://cyberleninka-ru.translate.goog/article/n/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). *Scientific Works of the Free Economic Society of Russia*, *224*, 541–553 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/oal5v6v8y2gga16zb11w6/transformatsiya-tsiklov-kuznetsa-v-postsotsialisticheskih-stranah-svyaz-issleduemyh-tsiklov-s-ekonomicheskim-rostom.pdf?rlkey=njgpiddtty4wef67qngt9isgb&dl=0)\]
 
 **Awarded a prize in the Free Economic Society [competition](https://www-veorus-ru.translate.goog/%d0%b4%d0%b5%d1%8f%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c/mezhdunarodnyy-konkurs-nauchnykh-rabot-molodezhi/?_x_tr_sl=mk&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)**
 
@@ -33,7 +33,7 @@ The paper clarifies the concept of Kuznets cycles, dividing it into three rhetor
 
 <center><hr style="width:50%"></center>
 
-Kushnarev, K., & Bolvachev, A. (2020). [Economic views of S. Kuznets and the reception of the theory of medium-term cycles in the political economy narrative](https://cyberleninka.ru/article/n/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative). *University Bulletin*, *8*, 88–101 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rd17evhf1n0y9wks9s4ai/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative.pdf?rlkey=1z8irnz8jlwnd2nelw7o9lk8c&dl=0)\]
+Kushnarev, K., & Bolvachev, A. (2020). [Economic views of S. Kuznets and the reception of the theory of medium-term cycles in the political economy narrative](https://cyberleninka-ru.translate.goog/article/n/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). *University Bulletin*, *8*, 88–101 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rd17evhf1n0y9wks9s4ai/ekonomicheskie-vzglyady-s-kuznetsa-i-retseptsiya-teorii-srednesrochnyh-tsiklov-v-politekonomicheskom-narrative.pdf?rlkey=1z8irnz8jlwnd2nelw7o9lk8c&dl=0)\]
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -42,7 +42,7 @@ This paper explores the key ideas of Nobel laureate Simon Kuznets’ economic th
 
 ### Art-market
 
-Kushnarev, K., et al. (2020). [The mechanism of self-regulation of the art market as a factor of counteraction to the legalization of financial flows](https://cyberleninka.ru/article/n/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov). *Financial Research*, *4*, 94–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/hqlzee77e73vztp8s0bol/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov.pdf?rlkey=bmvk26ahvkr06m7fks1koozwu&dl=0)\]
+Kushnarev, K., et al. (2020). [The mechanism of self-regulation of the art market as a factor of counteraction to the legalization of financial flows](https://cyberleninka-ru.translate.goog/article/n/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). *Financial Research*, *4*, 94–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/hqlzee77e73vztp8s0bol/mehanizm-samoregulirovaniya-art-rynka-kak-faktor-protivodeystviya-legalizatsii-finansovyh-potokov.pdf?rlkey=bmvk26ahvkr06m7fks1koozwu&dl=0)\]
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -57,7 +57,7 @@ Originality/Value. The institutional model of regulation proposed for the art ma
 
 <center><hr style="width:50%"></center>
 
-Kushnarev, K., & Bolvachev, A. (2020). [Mathematical and statistical model of price formation in the art market: finance and market equilibrium](https://www.finance-man.ru/index.php/journal/article/view/264). *Financial Management*, *1*, 51–63 (in Rus.). \[[pdf](https://scholar.google.com/)\]
+Kushnarev, K., & Bolvachev, A. (2020). [Mathematical and statistical model of price formation in the art market: finance and market equilibrium](https://www.finance-man.ru/index.php/journal/article/view/264). *Financial Management*, *1*, 51–63 (in Rus.). \[[pdf](https://www.finance-man.ru/index.php/journal/article/view/264)\]
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -66,7 +66,7 @@ The article examines the specific features of price formation for art objects. T
 
 ### Social Psychology
 
-Kushnarev, K., & Smirnova, Ya. (2018). [Theoretical and methodological foundations of research of interpersonal attraction](http://bppasu.ru/article/view/4231). *Bulletin of Psychology and Pedagogy of Altai State University*, *2*, 89–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rrs055tl1teg5tiwe3t6p/4231-13963-1-10-20180627.pdf?rlkey=r2dffwxsmklfhet83nqsln6xo&dl=0)\]
+Kushnarev, K., & Smirnova, Ya. (2018). [Theoretical and methodological foundations of research of interpersonal attraction](https://bppasu-ru.translate.goog/article/view/4231?_x_tr_sch=http&_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). *Bulletin of Psychology and Pedagogy of Altai State University*, *2*, 89–108 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/rrs055tl1teg5tiwe3t6p/4231-13963-1-10-20180627.pdf?rlkey=r2dffwxsmklfhet83nqsln6xo&dl=0)\]
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -75,7 +75,7 @@ The article reviews and systematizes the main approaches to studying interperson
 
 <center><hr style="width:50%"></center>
 
-Kushnarev, K., & Smirnova, Ya. (2017). [Motivations for refusing assistance in adolescents in the context of the phenomenon of interpersonal attraction](http://bppasu.ru/article/view/3290). *Bulletin of Psychology and Pedagogy of Altai State University*, *3*, 62–74 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/ak9dz7tf81afxfk0qy9o1/3290-10404-1-10-20170930.pdf?rlkey=io30vic0foh50dy6186wtravg&dl=0)\]
+Kushnarev, K., & Smirnova, Ya. (2017). [Motivations for refusing assistance in adolescents in the context of the phenomenon of interpersonal attraction](https://bppasu-ru.translate.goog/article/view/3290?_x_tr_sch=http&_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp). *Bulletin of Psychology and Pedagogy of Altai State University*, *3*, 62–74 (in Rus.). \[[pdf](https://www.dropbox.com/scl/fi/ak9dz7tf81afxfk0qy9o1/3290-10404-1-10-20170930.pdf?rlkey=io30vic0foh50dy6186wtravg&dl=0)\]
 
 **This paper received a commendation from the [American Psychological Association](https://en.wikipedia.org/wiki/American_Psychological_Association) and the [Moscow Psychological Society](https://ru-m-wikipedia-org.translate.goog/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp) in the [Step into the Future](https://www-step--into--the--future-ru.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp) competition**
 
