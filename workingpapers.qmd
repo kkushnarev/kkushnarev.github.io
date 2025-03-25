@@ -9,12 +9,12 @@ css: custom.css
 
 ## Working Papers
 
-Kushnarev, K. (2024). [Labour market concentration since the British Industrial Revolution](posts/labour-market-concentration/index.qmd). *Working Paper*. \[[pdf](https://scholar.google.com/)\]
+Kushnarev, K. (2024). [Labour market concentration since the British Industrial Revolution](posts/labour-market-concentration/index.qmd). *Working Paper*. \[[pdf](https://kkushnarev.github.io/)\] \[[slides](https://www.dropbox.com/scl/fi/7bay01qimaelbr0nbff13/Presentation__WP-12.pdf?rlkey=9bqm8tmp7cxf1nahw9e6t3lgb&st=3pw3ldbn&dl=0))\] 
 
-**Coverage and Seminar Slides**: [Economic Statistics Centre of Excellence](https://www.escoe.ac.uk/labour-market-concentration-since-the-british-industrial-revolution/), [Slides]((https://scholar.google.com/)
+**Covered by [Economic Statistics Centre of Excellence](https://www.escoe.ac.uk/labour-market-concentration-since-the-british-industrial-revolution/)**
   
 Kushnarev, K. (2024). [Spillover effects from chess, 1891–2021](https://scholar.google.com/). *Working Paper*. \[[pdf](https://scholar.google.com/)\]
 
 <center><hr style="width:50%"></center>
 
-On the future development of working papers in the \[Research Statement](https://kkushnarev.github.io/projects.html).
+On the future development of working papers in the [Research Statement](https://kkushnarev.github.io/projects.html).
