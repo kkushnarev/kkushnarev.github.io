@@ -16,11 +16,11 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2025](https://www.google.com)
+[Fall 2025](https://www.dropbox.com/scl/fo/9zupuxb17b91f1x6xvx37/AHvlHry9f8R3MjdxI8BolpA?rlkey=ryj0hs1q98e3srl6bhtig4cph&st=3cjogza4&dl=0)
 
 Topics in Russian Economic History
 
-[Outline 2025](https://www.google.com) &nbsp; [Outline 2025 (In Rus)](https://www.google.com)
+[Outline 2025](/files/Sillabus - Eng.pdf) &nbsp; [Outline 2025 (In Rus)](/files/Sillabus - In Rus.pdf)
 
 :::
 
