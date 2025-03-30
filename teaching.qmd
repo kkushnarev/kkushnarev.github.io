@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "Course Outline and Lectures"
+subtitle: "Syllabi and Lectures"
 title-block-banner: false
 ---
 
