@@ -33,7 +33,7 @@ Post-Selection Inference: Conditional Approach
 
 <details>
 <summary><strong>Abstract</strong></summary>
-The paper is 
+Significant progress has been made in using LASSO for variable selection when working with many controls. However, this has unexpectedly led to a growing body of literature that uses LASSO for data-driven variable selection in high-dimensional datasets. I show that using standard LASSO for selection introduces two types of misspecification. First, it leads to shrunk confidence intervals. Second, subsequent analyses—such as OLS—fail to condition the selection process, making results unstable, as small changes in the penalty coefficient can produce different sets of selected variables. I summarise how the post-selection inference (PoSI) framework, with adjusted confidence intervals, addresses these issues. Finally, I illustrate how conditioning on selection with adjusted confidence intervals changes the empirical results in Xue and Michalopoulos (2021) in QJE.
 </details>
 
 
