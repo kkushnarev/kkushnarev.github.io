@@ -8,7 +8,7 @@ editor: visual
 
 _To be updated ..._
 
-## Packages in STATA
+## Packages in Stata
 
 ### [hysi package](https://github.com/kkushnarev/HySI)
 
