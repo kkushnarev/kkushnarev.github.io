@@ -10,9 +10,9 @@ _To be updated ..._
 
 ## Packages in STATA
 
-[hysi package](https://github.com/kkushnarev/HySI)
+###[hysi package](https://github.com/kkushnarev/HySI). The package adjusts confidence intervals in LASSO used for selection to account for the selection event.
 
-## Installation
+#### Installation
 
 To install the hysi package in Stata, run:
 
