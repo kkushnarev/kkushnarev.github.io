@@ -1,10 +1,11 @@
 /* css styles */
 a {
-  color: #336B87;         /* softer blue */
-  text-decoration: none;  /* remove underline */
+  color: #1A0DAB;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline; /* subtle hover effect */
-  color: #2A4D69;             /* darker hover color */
+  text-decoration: underline;
+  color: #174ea6; /* deeper blue on hover */
 }
+
