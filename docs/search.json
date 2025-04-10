@@ -137,14 +137,7 @@
     "href": "people.html#packages-in-stata",
     "title": "Coding and Packages",
     "section": "Packages in STATA",
-    "text": "Packages in STATA\nhysi package"
-  },
-  {
-    "objectID": "people.html#installation",
-    "href": "people.html#installation",
-    "title": "Coding and Packages",
-    "section": "Installation",
-    "text": "Installation\nTo install the hysi package in Stata, run:\n. net install hysi, replace from(\"https://raw.githubusercontent.com/kkushnarev/hysi/main/\")"
+    "text": "Packages in STATA\nhysi package. The package adjusts confidence intervals in LASSO used for selection to account for the selection event.\n\nInstallation\nTo install the hysi package in Stata, run:\n. net install hysi, replace from(\"https://raw.githubusercontent.com/kkushnarev/hysi/main/\")"
   },
   {
     "objectID": "workinprogress.html",
