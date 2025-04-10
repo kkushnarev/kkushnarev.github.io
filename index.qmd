@@ -7,6 +7,10 @@ toc: false
 #sidebar: false
 page-layout: full
 
+format:
+  html:
+    css: styles.css
+
 about:
   id: hero-heading
   template: trestles
