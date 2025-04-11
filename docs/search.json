@@ -136,8 +136,8 @@
     "objectID": "people.html#packages-in-stata",
     "href": "people.html#packages-in-stata",
     "title": "Coding and Packages",
-    "section": "Packages in STATA",
-    "text": "Packages in STATA\n\nhysi package\nHybrid Confidence Intervals for LASSO Selection\nThe hysi package implements the Hybrid Confidence Interval (HySI) method in Stata for valid inference after LASSO-based model selection. The method, proposed by McCloskey (2024), combines the PoSI framework with a selective intervals approach by Lee et al. (2016) to construct confidence intervals that remain valid regardless of the model selected.\n\nInstallation\nTo install the hysi package in Stata, run:\n. net install hysi, replace from(\"https://raw.githubusercontent.com/kkushnarev/hysi/main/\")"
+    "section": "Packages in Stata",
+    "text": "Packages in Stata\n\nhysi package\nHybrid Confidence Intervals for LASSO Selection\nThe hysi package implements the Hybrid Confidence Interval (HySI) method in Stata for valid inference after LASSO-based model selection. The method, proposed by McCloskey (2024), combines the PoSI framework with a selective intervals approach by Lee et al. (2016) to construct confidence intervals that remain valid regardless of the model selected.\n\nInstallation\nTo install the hysi package in Stata, run:\n. net install hysi, replace from(\"https://raw.githubusercontent.com/kkushnarev/hysi/main/\")"
   },
   {
     "objectID": "workinprogress.html",
