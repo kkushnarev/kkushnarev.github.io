@@ -57,7 +57,7 @@ listing:
 
 Я также вёл YouTube-шоу «Книжная экономика», прошлые выпуски можно найти [здесь](https://www.youtube.com/playlist?list=PLSlOrkUZEiSxfeNVza3p1amPzfm-ePJZB). Я также записывал подкаст с друзьями о молодых исследователях, доступный [здесь](https://podcasts.apple.com/gb/podcast/%D0%B0-%D1%8D%D1%82%D0%BE-%D0%B5%D1%89%D0%B5-%D0%BA%D1%82%D0%BE/id1539021580).
 
-Мое резюме можно найти [здесь](posts.qmd#category=paper). Моя электронная почта: [kushnark@tcd.ie](mailto:kushnark@tcd.ie).
+Мое резюме можно найти [здесь](posts.qmd#category=paper). Моя электронная почта: [reufinances@gmail.com](mailto:reufinances@gmail.com).
 
 :::
 
