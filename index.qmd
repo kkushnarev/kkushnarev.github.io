@@ -63,10 +63,3 @@ You can find my CV [here](posts.qmd#category=paper). My email is [kkushnarev@alu
 
 :::
 
-## News
-Latest &nbsp;[Research](workingpapers.qmd)&nbsp;, &nbsp;[Code](people.qmd)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All News »](/posts.qmd)</p>
