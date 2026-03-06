@@ -4,7 +4,6 @@ description-meta: "Kirill's Kushnarev Website"
 image: "files/profiles/kirill2.png"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
 
 format:
@@ -27,26 +26,6 @@ about:
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=hNCef-4AAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai RePec >}} RePec"
-#      href: https://ideas.repec.org/f/pku681.html
-#      target: _blank
-
-listing:
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
 :::{#hero-heading}
@@ -62,11 +41,3 @@ I publish data, coding, and applied econometrics, including new Stata packages a
 You can find my CV [here](posts.qmd#category=paper). My email is [kkushnarev@alumni.lse.ac.uk](mailto:kkushnarev@alumni.lse.ac.uk).
 
 :::
-
-## News
-Latest &nbsp;[Research](workingpapers.qmd)&nbsp;, &nbsp;[Code](people.qmd)&nbsp;, and &nbsp;[Presentations](posts.qmd#category=event)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All News »](/posts.qmd)</p>
