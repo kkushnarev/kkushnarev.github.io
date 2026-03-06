@@ -34,8 +34,8 @@ about:
 listing:
   - id: recent-posts
     contents: 
-      - posts
-      - posts/post-links.yml
+#      - posts
+#      - posts/post-links.yml
     exclude:
       title: ""
     type: grid
