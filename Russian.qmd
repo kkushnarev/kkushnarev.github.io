@@ -26,23 +26,6 @@ about:
 #    - text: "{{< ai RePec >}} RePec"
 #      href: https://ideas.repec.org/f/pku681.html
 #      target: _blank
-
-listing:
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
 :::{#hero-heading}
@@ -60,11 +43,3 @@ listing:
 Мое резюме можно найти [здесь](posts.qmd#category=paper). Моя электронная почта: [kkushnarev@alumni.lse.ac.uk](mailto:kkushnarev@alumni.lse.ac.uk).
 
 :::
-
-## Новости
-Последние &nbsp;[исследования](posts.qmd#category=paper)&nbsp;, &nbsp;[код](posts.qmd#category=news)&nbsp; и &nbsp;[презентации](posts.qmd#category=event)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[Все новости »](/posts.qmd)</p>
