@@ -47,7 +47,7 @@ listing:
     sort: 
       - "date desc"
       - "title asc"
--—
+---
 
 :::{#hero-heading}
 
