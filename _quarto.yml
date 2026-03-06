@@ -56,9 +56,6 @@ website:
       - icon: github
         href: https://github.com/kkushnarev
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
     
   
   search:
