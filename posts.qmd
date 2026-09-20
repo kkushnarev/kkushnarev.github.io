@@ -8,4 +8,4 @@ editor: visual
 
 <br>
 
-<a href="/files/kakush_cv-32.pdf" download>Download CV (PDF)</a>
+<a href="/files/KushnarevCV.pdf" download>Download CV (PDF)</a>
